@@ -85,4 +85,3 @@ int main()
     cout<<"The average of the maximum 3 elements is: "<<average_max<<endl;
     return 0;
 }
-
